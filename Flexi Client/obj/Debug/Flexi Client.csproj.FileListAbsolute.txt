@@ -1,0 +1,9 @@
+C:\Users\jayda\Documents\Visual Studio 2012\Projects\Flexi\Flexi Client\bin\Debug\Flexi Client.exe
+C:\Users\jayda\Documents\Visual Studio 2012\Projects\Flexi\Flexi Client\bin\Debug\Flexi Client.pdb
+C:\Users\jayda\Documents\Visual Studio 2012\Projects\Flexi\Flexi Client\obj\Debug\Flexi Client.csprojResolveAssemblyReference.cache
+C:\Users\jayda\Documents\Visual Studio 2012\Projects\Flexi\Flexi Client\obj\Debug\Flexi_Client.Login.resources
+C:\Users\jayda\Documents\Visual Studio 2012\Projects\Flexi\Flexi Client\obj\Debug\Flexi_Client.Properties.Resources.resources
+C:\Users\jayda\Documents\Visual Studio 2012\Projects\Flexi\Flexi Client\obj\Debug\Flexi Client.csproj.GenerateResource.Cache
+C:\Users\jayda\Documents\Visual Studio 2012\Projects\Flexi\Flexi Client\obj\Debug\Flexi Client.exe
+C:\Users\jayda\Documents\Visual Studio 2012\Projects\Flexi\Flexi Client\obj\Debug\Flexi Client.pdb
+C:\Users\jayda\Documents\Visual Studio 2012\Projects\Flexi\Flexi Client\obj\Debug\Flexi_Client.Main.resources

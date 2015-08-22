@@ -1,0 +1,11 @@
+### FLEXI SERVER MYSQL CONFIG ###
+
+### MySQL Config ###
+MySQL.Host=localhost
+MySQL.Username=root
+MySQL.Password=jay
+MySQL.Database=tester
+
+### Pooling Settings ###
+MySQL.Pool.Min=10
+MySQL.Pool.Max=500

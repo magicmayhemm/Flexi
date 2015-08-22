@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flexi", "Flexi\Flexi.csproj", "{48D4D185-1CBE-42AC-99D1-0E7E51FBB947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flexi Client", "Flexi Client\Flexi Client.csproj", "{B9F810E8-69F5-4242-ADB3-BF3ECEE1AB2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48D4D185-1CBE-42AC-99D1-0E7E51FBB947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D4D185-1CBE-42AC-99D1-0E7E51FBB947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D4D185-1CBE-42AC-99D1-0E7E51FBB947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D4D185-1CBE-42AC-99D1-0E7E51FBB947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F810E8-69F5-4242-ADB3-BF3ECEE1AB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F810E8-69F5-4242-ADB3-BF3ECEE1AB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F810E8-69F5-4242-ADB3-BF3ECEE1AB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F810E8-69F5-4242-ADB3-BF3ECEE1AB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

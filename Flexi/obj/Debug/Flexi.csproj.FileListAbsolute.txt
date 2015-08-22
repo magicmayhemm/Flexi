@@ -1,0 +1,6 @@
+c:\users\jayda\documents\visual studio 2012\Projects\Flexi\Flexi\bin\Debug\Flexi.exe
+c:\users\jayda\documents\visual studio 2012\Projects\Flexi\Flexi\bin\Debug\Flexi.pdb
+c:\users\jayda\documents\visual studio 2012\Projects\Flexi\Flexi\obj\Debug\Flexi.csprojResolveAssemblyReference.cache
+c:\users\jayda\documents\visual studio 2012\Projects\Flexi\Flexi\obj\Debug\Flexi.exe
+c:\users\jayda\documents\visual studio 2012\Projects\Flexi\Flexi\obj\Debug\Flexi.pdb
+C:\Users\jayda\Documents\Visual Studio 2012\Projects\Flexi\Flexi\bin\Debug\MySql.Data.dll
