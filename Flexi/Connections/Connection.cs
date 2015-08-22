@@ -80,7 +80,7 @@ namespace Flexi.Connections
             }
             catch(Exception Ex)
             {
-                Logging.Exception(Ex, "Failed to end the send");
+                Logging.Exception(Ex, "Error with ending the async send");
             }
         }
 

@@ -62,7 +62,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SQL\DatabaseConnection.cs" />
     <Compile Include="SQL\SQLQueue.cs" />
-    <Compile Include="System Addons\FlexTimer.cs" />
     <Compile Include="Users\User.cs" />
     <Compile Include="Users\UserFactory.cs" />
     <Compile Include="Users\UserManager.cs" />

@@ -37,11 +37,11 @@ namespace Flexi.Connections
 
         private void ConnectionRequest(IAsyncResult IAR)
         {
-            Socket Client = ((Socket)IAR.AsyncState).EndAccept(IAR);
+            AcceptedConnections++;
 
+            Socket Client = ((Socket)IAR.AsyncState).EndAccept(IAR);
             string IPAddress = Client.RemoteEndPoint.ToString().Split(':')[0];
 
-            AcceptedConnections++;
             new Connection(Client, IPAddress);
 
             ServerListener.BeginAccept(ConnectionRequest, ServerListener);
