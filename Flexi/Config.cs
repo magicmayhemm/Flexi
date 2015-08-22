@@ -15,7 +15,7 @@ namespace Flexi
         public void GetAllData(string Path)
         {
             if (!File.Exists(Path))
-                Logging.Exception(null, "Failed to load config files");
+                Logging.Exception(new FileNotFoundException(), "Failed to load config file");
 
             try
             {
